@@ -23,10 +23,15 @@ Can emerging or declining topics be detected?
 ## Project Structure
 generative-ai-research-analysis/
 ├── data/ # Raw and processed datasets
+
 ├── notebooks/ # Jupyter notebooks for each step
+
 ├── results/ # Charts, topic models
-├── docs/ # report 
+
+├── docs/ # report
+
 ├── evaluation/ # model evaluation 
+
 ---
 
 ## Results
